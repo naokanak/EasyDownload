@@ -17,7 +17,7 @@ https://communities.vmware.com/blogs/cloudtalk/2016/04/18/%E3%82%B9%E3%82%AF%E3%
 // OVFTool のインストールについて  
 https://kb.vmware.com/kb/2138530
 
-================= English ==================
+================= English ==================  
 This tool is really friendly to download vApps/OVF/ISO from vCloud Air.
 
 // What you need
