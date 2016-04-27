@@ -1,5 +1,5 @@
 # EasyDownload for vCloud Air
-* English follows 
+(English follows )
 本ツールを利用することで、対話方式で vCloud Air 上から vApp/OVF/ISO をダウンロード可能となります。
 
 // 用意するもの
