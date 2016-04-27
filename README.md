@@ -15,6 +15,7 @@ GUI で選択してダウンロードを開始することができます。
 https://communities.vmware.com/blogs/cloudtalk/2016/04/18/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E4%BB%AE%E6%83%B3%E3%83%9E%E3%82%B7%E3%83%B3%E3%81%AE%E6%93%8D%E4%BD%9C-vpcdedicated-cloud-%E7%B7%A8
 
 // OVFTool のインストールについて
+
 https://kb.vmware.com/kb/2138530
 
 ================= English ==================
