@@ -19,7 +19,9 @@ https://kb.vmware.com/kb/2138530
 ## 利用方法
 PowerCLI 上で EasyDownload.ps1 を実行します。
 
-================= English ==================  
+---------------------------------------
+## English
+
 This tool is really friendly to download vApps/OVF/ISO from vCloud Air.
 You don’t need to copy vCD URL. It will automatically retrieve from your login information.
 It works for any environment on vCloud Air (Dedicated/VPC/OnDemand).
